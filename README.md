@@ -1,2 +1,2 @@
 # iutgram
-Course project
+## Course project from Mobile Programming (Senior)
