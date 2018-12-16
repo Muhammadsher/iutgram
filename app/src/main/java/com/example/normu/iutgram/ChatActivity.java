@@ -13,8 +13,9 @@ public class ChatActivity extends AppCompatActivity {
         setContentView(R.layout.activity_chat);
         Intent intent = getIntent();
         user_id = intent.getStringExtra("user_id");
-
     }
+
+    
 
 
 }
